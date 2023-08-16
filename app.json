@@ -10,8 +10,8 @@
 	"document",
 	"audio"
     ],
-    "website": "https://github.com/AkBotZ/Thumbnail-Extractor-Bot",
-    "repository": "https://github.com/AkBotZ/Thumbnail-Extractor-Bot",
+    "website": "https://github.com/Sanchit0102/DS_Thumb_Extractor",
+    "repository": "https://github.com/Sanchit0102/DS_Thumb_Extractor",
     "env": {
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
